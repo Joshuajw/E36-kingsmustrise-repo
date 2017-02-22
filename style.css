@@ -1,0 +1,53 @@
+.ui.borderless.topmenu.menu{
+  color: #999999;
+  border: none;
+  border-bottom: 1px solid #9999;
+  box-shadow: none;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  padding-left: 425px;
+}
+
+.logo{
+  padding-bottom: 55px;
+  border-top: 1px solid #9999;
+}
+
+.midpic{
+  padding-left: 230px;
+  padding-bottom: 100px;
+}
+
+.ui.three.column.grid.container{
+  padding-top: 40px;
+  padding-left: 120px;
+}
+
+.second.item.under{
+  padding-top: 100px;
+}
+
+.second.item.under2{
+  padding-top: 10px;
+}
+
+.footer-background{
+  padding-top: 100px;
+}
+
+.ui.borderless.bottommenu.menu{
+  border: none;
+  box-shadow: none;
+  width: 400px;
+  padding-left: 145px;
+}
+
+.copyright{
+  padding-top: 5px;
+  color: #999999;
+}
+
+.back-button{
+  padding-top: 50px;
+  border: 3px #000000;
+}
